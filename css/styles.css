@@ -36,8 +36,8 @@ No media query for `xs` since this is the default in Bootstrap */
 }
 
 #sec_nav {
-	height: 25vh;
-	background-color: var(--main-color-brown);
+	height: 45vh;
+	background-color: var(--main-color-redpurple);
 	font-family3: 'RocknRoll One', sans-serif;
 }
 /* Small devices (landscape phones, 576px and up) */
