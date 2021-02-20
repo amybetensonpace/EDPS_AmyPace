@@ -31,13 +31,13 @@ No media query for `xs` since this is the default in Bootstrap */
 /* Example Syntax */
 #sec_lan {
 	height: 200vh;
-	background-color: var(--main-color-maroonberry);
+	background-color: var(--main-color-white);
 	font-family3: 'RocknRoll One', sans-serif;
 }
 
 #sec_nav {
 	height: 25vh;
-	background-color: var(--main-color-dkpurple);
+	background-color: var(--main-color-brown);
 	font-family3: 'RocknRoll One', sans-serif;
 }
 /* Small devices (landscape phones, 576px and up) */
